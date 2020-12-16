@@ -1,0 +1,6 @@
+module Pods_muscleTracker {
+  umbrella header "Pods-muscleTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
